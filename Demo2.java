@@ -6,3 +6,12 @@ class Demo2
         System.out.println("Change 2 made.");
     }
 }
+
+class Demo3
+{
+    public static void main(String[] args) 
+    {
+        System.out.println("Created Demo2.java for studying the diff command.");
+        System.out.println("Change 2 made.");
+    }
+}
